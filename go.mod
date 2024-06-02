@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/alecthomas/chroma v0.10.0
-	github.com/compose-spec/compose-go v1.11.0
+	github.com/compose-spec/compose-go v1.20.2
 	github.com/deepmap/oapi-codegen v1.12.4
 	github.com/docker/compose/v2 v2.16.0
 	github.com/go-ini/ini v1.67.0
